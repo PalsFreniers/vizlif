@@ -3,12 +3,15 @@
 vizlif is a file vizualizer that can be used to create visuals such as :
 
 `images`
+
 ![images vizualization](res/image.png)
 
 `music`
+
 ![music vizualization](res/music.png)
 
 `programs`
+
 ![wasm vizualization](res/wasm.png)
 ![x86\_64 vizualization](res/x86_64.png)
 
